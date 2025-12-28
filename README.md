@@ -22,13 +22,45 @@ Each project is simple, easy to understand, and designed to strengthen fundament
 
 ## 📂 Projects Included
 
-- **Username Generator**  
-  Generates multiple username suggestions based on user input.
+### 1️⃣ Username Generator
+Generates multiple username suggestions based on user input such as name, favorite word, or birth year.  
+- **Skills practiced:** strings, input/output, basic logic  
 
-- **BMI Calculator**  
-  Calculates Body Mass Index (BMI) using user-provided height and weight, then displays the BMI value along with its health category.
+---
 
-*(More projects will be added as learning progresses.)*
+### 2️⃣ BMI Calculator
+Calculates Body Mass Index (BMI) using user-provided height and weight, then displays the BMI value along with its health category.  
+- **Input:** Height (meters), Weight (kg)  
+- **Output:** BMI value and category (Underweight, Normal, Overweight, Obese)  
+- **Skills practiced:** arithmetic operations, conditional statements, input validation  
+
+---
+
+### 3️⃣ Simple Calculator
+A **menu-based calculator** that performs addition, subtraction, multiplication, and division.  
+- Handles invalid menu choices and non-numeric input  
+- Loop-based system allows multiple calculations until the user exits  
+- **Skills practiced:** loops, conditional logic, error handling  
+
+---
+
+### 4️⃣ Temperature Converter
+Converts temperatures between Celsius and Fahrenheit using a **menu-based system**.  
+- Converts: Celsius → Fahrenheit and Fahrenheit → Celsius  
+- Input validation prevents invalid data  
+- Loop allows repeated conversions until exit  
+- **Skills practiced:** arithmetic operations, loops, input validation  
+
+---
+
+### 5️⃣ ATM Simulation
+Simulates a simple ATM system with **menu-based interaction**.  
+- Check current balance  
+- Deposit money (with validation for positive amounts)  
+- Withdraw money (prevents over-withdrawal and invalid amounts)  
+- Loop keeps the program running until the user exits  
+- Includes **error handling** for non-numeric input  
+- **Skills practiced:** loops, conditional logic, variables, input validation, error handling  
 
 ---
 
