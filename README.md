@@ -24,7 +24,7 @@ Each project is simple, easy to understand, and written to reinforce fundamental
   Generates multiple username suggestions based on user input.
 
 - **BMI Calculator**
-  Calculates Body Mass Index (BMI) using user height and weight, then displays the BMI value along with its health category
+  Calculates Body Mass Index (BMI) using user height and weight, then displays the BMI value along with its health category.
 
 *(More projects will be added as learning progresses.)*
 
